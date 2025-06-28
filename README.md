@@ -1,11 +1,43 @@
-# CamPhish
-Grab cam shots from target's phone front camera or PC webcam just sending a link.
-![CamPhish](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
+🔒 DISCLAIMER 🔒
+
+This tool, **CamPhish**, is developed **strictly for educational and ethical penetration testing purposes only**.
 
 # What is CamPhish?
 <p>CamPhish is techniques to take cam shots of target's phone front camera or PC webcam. CamPhish Hosts a fake website on in built PHP server and uses ngrok & CloudFlare Tunnel to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device
 
 A GPS location capture feature has been added.</p>
+
+📌 Purpose:
+CamPhish is designed to demonstrate how **camera-based phishing attacks** can be simulated for awareness, training, and research purposes. It helps security professionals understand how social engineering and device exploitation may occur, so they can defend against it.
+
+⚠️ WARNING:
+This tool must **not** be used for any illegal, unethical, or unauthorized surveillance. Misuse of CamPhish for spying, stalking, blackmailing, or accessing unauthorized camera feeds is a serious offense and may lead to **legal consequences**.
+
+✅ Intended Use Cases:
+- Cybersecurity awareness campaigns  
+- Ethical hacking workshops and CTFs  
+- Red teaming & pentesting (with permission)  
+- Educational content creation (YouTube / Courses)  
+- Demonstrating client-side attack vectors
+
+🛡️ Always test responsibly, ethically, and with full **informed consent**.
+
+💡 Respect privacy | Stay legal | Hack the right way
+
+Developed by: **Santosh Chhetri**  
+YouTube Channel: **Master in White Devil**  
+Version: **CamPhish v1.0.0**
+
+
+
+
+
+
+
+
+# CamPhish
+Grab cam shots from target's phone front camera or PC webcam just sending a link.
+![CamPhish](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
 
 ## Features
 <p>In this tool I added two automatic webpage templates for engaged target on webpage to get more picture of cam</p>
@@ -89,6 +121,5 @@ bash cleanup.sh
 ### Important Notice
 Unauthorized reuploading of this project is prohibited.
 
-#### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
+#### For More Video subcribe <a href="https://www.youtube.com/@mastersinwhitedevil">Master In White Devil YouTube Channel</a>
 <p>CamPhish is created to help in penetration testing and it's not responsible for any misuse or illegal purposes.</p>
-<p>CamPhish is inspired by https://github.com/thelinuxchoice/ Big thanks to @thelinuxchoice</p>
