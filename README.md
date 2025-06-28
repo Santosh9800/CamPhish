@@ -1,7 +1,7 @@
 🔒 DISCLAIMER 🔒
 
-> This tool is only for **ethical hacking, education, and training**. Do **NOT** use it for spying or malicious intent. The author is not responsible for any misuse.  
-> Always get **written permission** before testing on anyone or any system.
+This tool is only for **ethical hacking, education, and training**. Do **NOT** use it for spying or malicious intent. The author is not responsible for any misuse.  
+Always get **written permission** before testing on anyone or any system.
 
 # What is CamPhish?
 <p>CamPhish is techniques to take cam shots of target's phone front camera or PC webcam. CamPhish Hosts a fake website on in built PHP server and uses ngrok & CloudFlare Tunnel to generate a link which we will forward to the target, which can be used on over internet. website asks for camera permission and if the target allows it, this tool grab camshots of target's device
