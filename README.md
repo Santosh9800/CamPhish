@@ -29,15 +29,11 @@ YouTube Channel: **Master in White Devil**
 Version: **CamPhish v1.0.0**
 
 
-
-
-
-
-
-
 # CamPhish
 Grab cam shots from target's phone front camera or PC webcam just sending a link.
-![CamPhish](https://techchip.net/wp-content/uploads/2020/04/camphish.jpg)
+![Screenshot From 2025-06-29 00-29-09](https://github.com/user-attachments/assets/007d1a9e-3045-4aea-8be5-8d9d5dacf1dc)
+<br>
+![Screenshot From 2025-06-29 00-29-35](https://github.com/user-attachments/assets/67bd7de3-e062-448d-b636-65119d18d871)
 
 ## Features
 <p>In this tool I added two automatic webpage templates for engaged target on webpage to get more picture of cam</p>
