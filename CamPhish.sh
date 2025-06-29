@@ -65,13 +65,13 @@ map_url="https://www.google.com/maps/search/?api=1&query=$latitude,$longitude"
 
 # Output
 echo -e "${CYAN}🔍 Real IP       : $ip"
-echo -e "🏙️ City           : $city"
+echo -e "🏙️  City           : $city"
 echo -e "🌐 Region         : $region"
-echo -e "🗺️ Country        : $country"
+echo -e "🗺️  Country        : $country"
 echo -e "📍 Coordinates    : $loc"
-echo -e "🛰️ ISP            : $org"
+echo -e "🛰️  ISP            : $org"
 echo -e "🕒 Timezone       : $timezone"
-echo -e "🗺️ Map Location   : $map_url${NC}"
+echo -e "🗺️  Map Location   : $map_url${NC}"
 
 # OS and Linux Distro Detection
 echo -e "${GREEN}\n🧠 Detecting OS and Distro Info...${NC}"
@@ -100,7 +100,7 @@ echo -e "${CYAN}💻 OS Type        : $os_type"
 echo -e "🐧 Distro         : $distro"
 echo -e "🔢 Version        : $version"
 echo -e "🧬 Architecture   : $arch"
-echo -e "⚙️ Kernel         : $kernel"
+echo -e "⚙️  Kernel         : $kernel"
 echo -e "💡 Hostname       : $hostname${NC}"
 
 echo -e "${GREEN}\n✅ All Sensitive System Info Captured. Be Ready for Camphish!${NC}"
