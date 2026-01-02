@@ -52,7 +52,6 @@ Grab cam shots from target's phone front camera or PC webcam just sending a link
   <li>MacOS</li>
   <li>Ubuntu</li>
   <li>Parrot Sec OS</li>
-  <li>Windows (WSL)</li>
 </ul>
 
 # Installing and requirements
@@ -65,7 +64,7 @@ apt-get -y install php wget unzip
 ## Installing (Kali Linux/Termux):
 
 ```
-https://github.com/Santosh9800/CamPhish.git
+git clone https://github.com/Santosh9800/CamPhish.git
 cd CamPhish
 bash CamPhish.sh
 ```
